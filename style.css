@@ -1,6 +1,7 @@
 body {
     margin: 0px;
-    padding:0px;  
+    padding:0px;
+    text-align: center;
 }
 
 .head {
@@ -10,9 +11,13 @@ body {
 
 p {
     font-size:16px;
-    text-align: center;
+    
 }
 
 h1 {
     font-sizing: 22px;
+}
+
+i {
+font-size: 16px;
 }
