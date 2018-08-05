@@ -1,12 +1,13 @@
 body {
     margin: 0px;
     padding:0px;
+    width:2222;
     text-align: center;
 }
 
 .head {
-    margin: 0px;
-    padding:0px;
+    margin: 22px;
+    padding:22px;
 }
 
 p {
