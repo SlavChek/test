@@ -6,8 +6,13 @@ body {
 }
 
 .head {
+<<<<<<< HEAD
     margin: 22px;
     padding:24px;
+=======
+    margin: 82px;
+    padding:8px;
+>>>>>>> 24
 }
 
 p {
